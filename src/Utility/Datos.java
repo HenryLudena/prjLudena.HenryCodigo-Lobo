@@ -1,6 +1,5 @@
 package Utility;
 import java.security.KeyStore.LoadStoreParameter;
-
 import java.util.Scanner;
 public class Datos {
     private static final int delay = 500;
